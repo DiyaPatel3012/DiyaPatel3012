@@ -1,6 +1,6 @@
 # Hi there, I'm Diya Patel 👋
 
-🎨 Artist | 📈 MBA Student | 💡 Digital Marketing Enthusiast | 🎁 Founder of ArtWhisper1420  
+🎨 Artist | 📈 MBA Student | 💡 Digital Marketing Enthusiast | 
 
 <img align="right" alt="Girl Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -10,8 +10,7 @@
 
 - 🎓 Pursuing MBA in HR & Marketing at CIMDR, Sangli  
 - 🎨 Professional artist skilled in portraits, mehndi, and handmade crafts  
-- 📱 Content Creator & Social Media Marketing Enthusiast  
-- 🎁 Founder of **ArtWhisper1420 / Diya's Gift Gallery**  
+- 📱 Content Creator & Social Media Marketing Enthusiast    
 - 📊 Interested in branding, influencer marketing & digital growth  
 - 🌱 Currently learning advanced digital marketing strategies  
 
@@ -23,8 +22,7 @@
 ✨ Social Media Content Creation  
 ✨ Canva Designing  
 ✨ Reels & Brand Promotion  
-✨ Faceless Portraits & Handmade Art  
-✨ Fashion Designing  
+ 
 
 ---
 
@@ -88,11 +86,8 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/kalakram_by_diya">
-<img src="https://img.shields.io/badge/Art_Page-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
 
-<a href="https://instagram.com/artwhisper1420">
+<a href="https://www.instagram.com/diya_gift_gallery_?igsh=MTN0YWFwZ2p5MDJsNQ==">
 <img src="https://img.shields.io/badge/Gift_Business-FF69B4?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
@@ -111,12 +106,3 @@
 
 ---
 
-## ✨ Quote I Believe In
-
-> "Creativity without execution stays invisible."
-
----
-
-<p align="center">
-✨ Turning creativity into meaningful experiences ✨
-</p>
